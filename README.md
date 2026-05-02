@@ -1,4 +1,4 @@
-## Hola, mi nombre es Juan Carlos Calixto 👋
+## Hola, mi nombre es Juan Carlos Calixto Gutierrez👋🏽
 
 <!--
 **JuanCaCG/JuanCaCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
